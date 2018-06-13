@@ -7,6 +7,8 @@ This is your class repository. To get started with the training, check out
 
 ## Completing tasks
 
+### Note: you will be using the RekaOnline project on Firebase. check your email for the invite
+
 Whenever you complete a task, you will:
 
 -  Create a new branch, using your name.
